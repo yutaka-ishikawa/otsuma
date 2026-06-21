@@ -28,7 +28,7 @@ $ vim page.html
 ```
 
 6. doc/page.htmlを開いてみましょう。<br>
-  http://localhost:8080/index2.html
+  http://localhost:8080/doc/page.html
 
 7. このプログラムにもいくつか問題点があります。AIにどこが問題か聞いてみましょう。
 
