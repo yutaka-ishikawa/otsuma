@@ -10,10 +10,10 @@ $ make
 $ make run
 ```
 これでサーバが起動します。
-3. Browserで、<br>
+3. Browserで、
   http://localhost:8080<br>
   と入力してみましょう。index.htmlの内容が表示されます。
-4. Browserで、<br>
+4. Browserで、
   http://localhost:8080/index2.html<br>
   と入力してみましょう。index2.htmlの内容が表示されます。
 5. docというディレクトリを作り、その下で、page.htmlというファイルを作ってみましょう。
@@ -22,7 +22,7 @@ $ mkdir doc
 $ cd doc
 $ vim page.html
 ```
-6. doc/page.htmlを開いてみましょう。<br>
+6. doc/page.htmlを開いてみましょう。
   http://localhost:8080/index2.html
 
 7. このプログラムにもいくつか問題点があります。AIにどこが問題か聞いてみましょう。
